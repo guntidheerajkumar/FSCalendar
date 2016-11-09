@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F66DEF2E-AA44-459B-81F1-944EAE065336}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FSCalendarView/ApiDefinition.cs">
+    <Files>
+      <File FileName="SampleCalendar/ViewController.cs" Line="39" Column="26" />
+      <File FileName="FSCalendarView/ApiDefinition.cs" Line="601" Column="86" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleCalendar PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5A6635EF-A4C6-4CDD-808F-84875B84764E" />
+</Properties>
