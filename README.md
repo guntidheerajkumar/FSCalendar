@@ -49,3 +49,7 @@ public class CalendarDataSource : FSCalendarDataSource
 	}
 }
 ```
+
+###Output
+
+![](https://github.com/guntidheerajkumar/FSCalendar/blob/master/FSCalendarOutput.gif)
